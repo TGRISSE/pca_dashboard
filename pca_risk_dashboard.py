@@ -17,10 +17,12 @@ import time
 st.set_page_config(layout="wide", page_title="PCA Risk Factor Analysis")
 
 # --- Define Cache Filenames ---
-STOCK_CACHE_CSV = "sp500_data_cache.csv"
-METADATA_CACHE_CSV = "sp500_metadata.csv"
-ETF_CACHE_CSV = "etf_data_cache.csv"
-TICKER_BLACKLIST_CSV = "ticker_blacklist.csv"
+DATA_DIR = "data"
+
+STOCK_CACHE_CSV = os.path.join(DATA_DIR, "sp500_data_cache.csv")
+METADATA_CACHE_CSV = os.path.join(DATA_DIR, "sp500_metadata.csv")
+ETF_CACHE_CSV = os.path.join(DATA_DIR, "etf_data_cache.csv")
+TICKER_BLACKLIST_CSV = os.path.join(DATA_DIR, "ticker_blacklist.csv")
 
 # --- Load Ticker Blacklist ---
 @st.cache_data(ttl=3600) # Cache for 1 hour
