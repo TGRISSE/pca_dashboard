@@ -1,0 +1,504 @@
+Symbol,Name,Sector,Industry,MarketCap,Country,Exchange
+BRK-B,Berkshire Hathaway Inc.,Financial Services,Insurance - Diversified,1065947758592,United States,NYQ
+BEN,"Franklin Resources, Inc.",Financial Services,Asset Management,9199719424,United States,NYQ
+WAT,Waters Corporation,Healthcare,Diagnostics & Research,19303790592,United States,NYQ
+BA,The Boeing Company,Industrials,Aerospace & Defense,102771269632,United States,NYQ
+AMD,"Advanced Micro Devices, Inc.",Technology,Semiconductors,139328274432,United States,NMS
+CHD,"Church & Dwight Co., Inc.",Consumer Defensive,Household & Personal Products,26109808640,United States,NYQ
+CCI,Crown Castle Inc.,Real Estate,REIT - Specialty,43969822720,United States,NYQ
+ANET,Arista Networks Inc,Technology,Computer Hardware,81178296320,United States,NYQ
+HES,Hess Corporation,Energy,Oil & Gas E&P,41175478272,United States,NYQ
+CRWD,"CrowdStrike Holdings, Inc.",Technology,Software - Infrastructure,79723388928,United States,NMS
+DXCM,"DexCom, Inc.",Healthcare,Medical Devices,23459762176,United States,NMS
+CDW,CDW Corporation,Technology,Information Technology Services,19143770112,United States,NMS
+TXN,Texas Instruments Incorporated,Technology,Semiconductors,137752494080,United States,NMS
+CBRE,"CBRE Group, Inc.",Real Estate,Real Estate Services,35428368384,United States,NYQ
+EBAY,eBay Inc.,Consumer Cyclical,Internet Retail,29078401024,United States,NMS
+NFLX,"Netflix, Inc.",Communication Services,Entertainment,366100086784,United States,NMS
+DTE,DTE Energy Company,Utilities,Utilities - Regulated Electric,27350872064,United States,NYQ
+KMX,"CarMax, Inc.",Consumer Cyclical,Auto & Truck Dealerships,11645735936,United States,NYQ
+JNJ,Johnson & Johnson,Healthcare,Drug Manufacturers - General,369285431296,United States,NYQ
+COST,Costco Wholesale Corporation,Consumer Defensive,Discount Stores,406626598912,United States,NMS
+REG,Regency Centers Corporation,Real Estate,REIT - Retail,12558983168,United States,NMS
+ACN,Accenture plc,Technology,Information Technology Services,178580389888,Ireland,NYQ
+NCLH,Norwegian Cruise Line Holdings Ltd.,Consumer Cyclical,Travel Services,6902736896,United States,NYQ
+KHC,The Kraft Heinz Company,Consumer Defensive,Packaged Foods,35420114944,United States,NMS
+EPAM,"EPAM Systems, Inc.",Technology,Information Technology Services,8230001152,United States,NYQ
+IP,International Paper Company,Consumer Cyclical,Packaging & Containers,25327491072,United States,NYQ
+UNP,Union Pacific Corporation,Industrials,Railroads,127810560000,United States,NYQ
+URI,"United Rentals, Inc.",Industrials,Rental & Leasing Services,36884545536,United States,NYQ
+MTD,Mettler-Toledo International Inc.,Healthcare,Diagnostics & Research,21313257472,United States,NYQ
+RF,Regions Financial Corporation,Financial Services,Banks - Regional,16895977472,United States,NYQ
+MO,"Altria Group, Inc.",Consumer Defensive,Tobacco,94553079808,United States,NYQ
+J,Jacobs Solutions Inc.,Industrials,Engineering & Construction,13657528320,United States,NYQ
+PAYC,"Paycom Software, Inc.",Technology,Software - Application,11207855104,United States,NYQ
+ED,"Consolidated Edison, Inc.",Utilities,Utilities - Regulated Electric,38597832704,United States,NYQ
+ORLY,"O'Reilly Automotive, Inc.",Consumer Cyclical,Specialty Retail,79556853760,United States,NMS
+SW,Smurfit Westrock Plc,Consumer Cyclical,Packaging & Containers,21432334336,Ireland,NYQ
+ABNB,"Airbnb, Inc.",Consumer Cyclical,Travel Services,66272129024,United States,NMS
+FTNT,"Fortinet, Inc.",Technology,Software - Infrastructure,65139789824,United States,NMS
+MNST,Monster Beverage Corporation,Consumer Defensive,Beverages - Non-Alcoholic,55547916288,United States,NMS
+EG,"Everest Group, Ltd.",Financial Services,Insurance - Reinsurance,14469649408,Bermuda,NYQ
+GRMN,Garmin Ltd.,Technology,Scientific & Technical Instruments,34336419840,Switzerland,NYQ
+CRM,"Salesforce, Inc.",Technology,Software - Application,231370358784,United States,NYQ
+CDNS,"Cadence Design Systems, Inc.",Technology,Software - Application,63882240000,United States,NMS
+BMY,Bristol-Myers Squibb Company,Healthcare,Drug Manufacturers - General,112522223616,United States,NYQ
+XOM,Exxon Mobil Corporation,Energy,Oil & Gas Integrated,452745854976,United States,NYQ
+GL,Globe Life Inc.,Financial Services,Insurance - Life,9757721600,United States,NYQ
+HAL,Halliburton Company,Energy,Oil & Gas Equipment & Services,17222379520,United States,NYQ
+IDXX,"IDEXX Laboratories, Inc.",Healthcare,Diagnostics & Research,31907485696,United States,NMS
+HST,"Host Hotels & Resorts, Inc.",Real Estate,REIT - Hotel & Motel,9304027136,United States,NMS
+TFC,Truist Financial Corporation,Financial Services,Banks - Regional,45414518784,United States,NYQ
+BAC,Bank of America Corporation,Financial Services,Banks - Diversified,261460295680,United States,NYQ
+NWS,News Corporation,Communication Services,Entertainment,14515105792,United States,NMS
+KDP,Keurig Dr Pepper Inc.,Consumer Defensive,Beverages - Non-Alcoholic,45871718400,United States,NMS
+PSX,Phillips 66,Energy,Oil & Gas Refining & Marketing,40284635136,United States,NYQ
+MGM,MGM Resorts International,Consumer Cyclical,Resorts & Casinos,7669900288,United States,NYQ
+BIIB,Biogen Inc.,Healthcare,Drug Manufacturers - General,18001199104,United States,NMS
+HAS,"Hasbro, Inc.",Consumer Cyclical,Leisure,7561198592,United States,NMS
+VTRS,Viatris Inc.,Healthcare,Drug Manufacturers - Specialty & Generic,9095917568,United States,NMS
+VRSN,"VeriSign, Inc.",Technology,Software - Infrastructure,22722920448,United States,NMS
+HUM,Humana Inc.,Healthcare,Healthcare Plans,30628263936,United States,NYQ
+ALGN,"Align Technology, Inc.",Healthcare,Medical Instruments & Supplies,11297967104,United States,NMS
+WFC,Wells Fargo & Company,Financial Services,Banks - Diversified,199109443584,United States,NYQ
+MCD,McDonald's Corporation,Consumer Cyclical,Restaurants,214416883712,United States,NYQ
+AFL,Aflac Incorporated,Financial Services,Insurance - Life,55662211072,United States,NYQ
+AMGN,Amgen Inc.,Healthcare,Drug Manufacturers - General,158147788800,United States,NMS
+DRI,"Darden Restaurants, Inc.",Consumer Cyclical,Restaurants,22513463296,United States,NYQ
+PSA,Public Storage,Real Estate,REIT - Industrial,49911398400,United States,NYQ
+PPL,PPL Corporation,Utilities,Utilities - Regulated Electric,25467731968,United States,NYQ
+BR,"Broadridge Financial Solutions, Inc.",Technology,Information Technology Services,26333954048,United States,NYQ
+BK,The Bank of New York Mellon Corporation,Financial Services,Banks - Diversified,52634673152,United States,NYQ
+TYL,"Tyler Technologies, Inc.",Technology,Software - Application,23201695744,United States,NYQ
+ESS,"Essex Property Trust, Inc.",Real Estate,REIT - Residential,18698358784,United States,NYQ
+RTX,RTX Corporation,Industrials,Aerospace & Defense,156806316032,United States,NYQ
+INVH,Invitation Homes Inc.,Real Estate,REIT - Residential,19943213056,United States,NYQ
+DGX,Quest Diagnostics Incorporated,Healthcare,Diagnostics & Research,18220367872,United States,NYQ
+GWW,"W.W. Grainger, Inc.",Industrials,Industrial Distribution,45398171648,United States,NYQ
+ERIE,Erie Indemnity Company,Financial Services,Insurance Brokers,20736606208,United States,NMS
+ON,ON Semiconductor Corporation,Technology,Semiconductors,14223051776,United States,NMS
+FOXA,Fox Corporation,Communication Services,Entertainment,21605447680,United States,NMS
+STE,STERIS plc,Healthcare,Medical Devices,20889102336,United States,NYQ
+APTV,Aptiv PLC,Consumer Cyclical,Auto Parts,12160637952,Switzerland,NYQ
+EA,Electronic Arts Inc.,Communication Services,Electronic Gaming & Multimedia,35272040448,United States,NMS
+CSX,CSX Corporation,Industrials,Railroads,51284045824,United States,NMS
+PCG,PG&E Corporation,Utilities,Utilities - Regulated Electric,36062457856,United States,NYQ
+CL,Colgate-Palmolive Company,Consumer Defensive,Household & Personal Products,74343964672,United States,NYQ
+VICI,VICI Properties Inc.,Real Estate,REIT - Diversified,32324454400,United States,NYQ
+T,AT&T Inc.,Communication Services,Telecom Services,191226707968,United States,NYQ
+EL,The Estée Lauder Companies Inc.,Consumer Defensive,Household & Personal Products,19039715328,United States,NYQ
+DAY,Dayforce Inc,Technology,Software - Application,8148910592,United States,NYQ
+MRK,"Merck & Co., Inc.",Healthcare,Drug Manufacturers - General,205796491264,United States,NYQ
+WRB,W. R. Berkley Corporation,Financial Services,Insurance - Property & Casualty,24812756992,United States,NYQ
+WMT,Walmart Inc.,Consumer Defensive,Discount Stores,666921795584,United States,NYQ
+ZBH,"Zimmer Biomet Holdings, Inc.",Healthcare,Medical Devices,21367422976,United States,NYQ
+VLTO,Veralto Corporation,Industrials,Pollution & Treatment Controls,22031978496,United States,NYQ
+MAS,Masco Corporation,Industrials,Building Products & Equipment,13337970688,United States,NYQ
+ARE,"Alexandria Real Estate Equities, Inc.",Real Estate,REIT - Office,14060545024,United States,NYQ
+NDSN,Nordson Corporation,Industrials,Specialty Industrial Machinery,10058004480,United States,NMS
+EQR,Equity Residential,Real Estate,REIT - Residential,24965429248,United States,NYQ
+DPZ,"Domino's Pizza, Inc.",Consumer Cyclical,Restaurants,15235069952,United States,NMS
+VRTX,Vertex Pharmaceuticals Incorporated,Healthcare,Biotechnology,122015776768,United States,NMS
+EOG,"EOG Resources, Inc.",Energy,Oil & Gas E&P,60973191168,United States,NYQ
+TSLA,"Tesla, Inc.",Consumer Cyclical,Auto Manufacturers,770131361792,United States,NMS
+STZ,"Constellation Brands, Inc.",Consumer Defensive,Beverages - Brewers,31426238464,United States,NYQ
+QCOM,QUALCOMM Incorporated,Technology,Semiconductors,140970754048,United States,NMS
+ADI,"Analog Devices, Inc.",Technology,Semiconductors,81637654528,United States,NMS
+UHS,"Universal Health Services, Inc.",Healthcare,Medical Care Facilities,11379826688,United States,NYQ
+MSI,"Motorola Solutions, Inc.",Technology,Communication Equipment,67141234688,United States,NYQ
+SJM,The J. M. Smucker Company,Consumer Defensive,Packaged Foods,12254982144,United States,NYQ
+CHRW,"C.H. Robinson Worldwide, Inc.",Industrials,Integrated Freight & Logistics,10751563776,United States,NMS
+SPG,"Simon Property Group, Inc.",Real Estate,REIT - Retail,55055888384,United States,NYQ
+WAB,Westinghouse Air Brake Technologies Corporation,Industrials,Railroads,27515527168,United States,NYQ
+CNC,Centene Corporation,Healthcare,Healthcare Plans,30720995328,United States,NYQ
+GEHC,GE HealthCare Technologies Inc.,Healthcare,Health Information Services,27671099392,United States,NMS
+AVY,Avery Dennison Corporation,Consumer Cyclical,Packaging & Containers,13443961856,United States,NYQ
+WYNN,"Wynn Resorts, Limited",Consumer Cyclical,Resorts & Casinos,7441244672,United States,NMS
+DLR,"Digital Realty Trust, Inc.",Real Estate,REIT - Specialty,47132114944,United States,NYQ
+TPR,"Tapestry, Inc.",Consumer Cyclical,Luxury Goods,13029524480,United States,NYQ
+GNRC,Generac Holdings Inc.,Industrials,Specialty Industrial Machinery,6668422144,United States,NYQ
+O,Realty Income Corporation,Real Estate,REIT - Retail,49181061120,United States,NYQ
+EQIX,"Equinix, Inc.",Real Estate,REIT - Specialty,74576756736,United States,NMS
+DOV,Dover Corporation,Industrials,Specialty Industrial Machinery,21045870592,United States,NYQ
+FFIV,"F5, Inc.",Technology,Software - Infrastructure,13793312768,United States,NMS
+DE,Deere & Company,Industrials,Farm & Heavy Construction Machinery,116670021632,United States,NYQ
+ETN,Eaton Corporation plc,Industrials,Specialty Industrial Machinery,96578895872,Ireland,NYQ
+VMC,Vulcan Materials Company,Basic Materials,Building Materials,30480986112,United States,NYQ
+APH,Amphenol Corporation,Technology,Electronic Components,71604076544,United States,NYQ
+LEN,Lennar Corporation,Consumer Cyclical,Residential Construction,29171468288,United States,NYQ
+WST,"West Pharmaceutical Services, Inc.",Healthcare,Medical Instruments & Supplies,14690600960,United States,NYQ
+BF-B,Brown-Forman Corporation,Consumer Defensive,Beverages - Wineries & Distilleries,15089201152,United States,NYQ
+KKR,KKR & Co. Inc.,Financial Services,Asset Management,85628379136,United States,NYQ
+EXE,Expand Energy Corporation,Energy,Oil & Gas E&P,23272327168,United States,NMS
+DHI,"D.R. Horton, Inc.",Consumer Cyclical,Residential Construction,41024405504,United States,NYQ
+KLAC,KLA Corporation,Technology,Semiconductor Equipment & Materials,76613345280,United States,NMS
+ICE,"Intercontinental Exchange, Inc.",Financial Services,Financial Data & Stock Exchanges,90046816256,United States,NYQ
+ORCL,Oracle Corporation,Technology,Software - Infrastructure,359698595840,United States,NYQ
+KIM,Kimco Realty Corporation,Real Estate,REIT - Retail,13127920640,United States,NYQ
+ETR,Entergy Corporation,Utilities,Utilities - Regulated Electric,34043910144,United States,NYQ
+EFX,Equifax Inc.,Industrials,Consulting Services,26216525824,United States,NYQ
+FSLR,"First Solar, Inc.",Technology,Solar,13777809408,United States,NMS
+PEP,"PepsiCo, Inc.",Consumer Defensive,Beverages - Non-Alcoholic,201047752704,United States,NMS
+SRE,Sempra,Utilities,Utilities - Diversified,42948026368,United States,NYQ
+FANG,"Diamondback Energy, Inc.",Energy,Oil & Gas E&P,35708334080,United States,NMS
+FI,"Fiserv, Inc.",Technology,Information Technology Services,110932803584,United States,NYQ
+TTWO,"Take-Two Interactive Software, Inc.",Communication Services,Electronic Gaming & Multimedia,34342592512,United States,NMS
+WBA,"Walgreens Boots Alliance, Inc.",Healthcare,Pharmaceutical Retailers,9235369984,United States,NMS
+MCHP,Microchip Technology Incorporated,Technology,Semiconductors,19479805952,United States,NMS
+EXPD,"Expeditors International of Washington, Inc.",Industrials,Integrated Freight & Logistics,15012757504,United States,NYQ
+FOX,Fox Corporation,Communication Services,Entertainment,21607835648,United States,NMS
+CNP,"CenterPoint Energy, Inc.",Utilities,Utilities - Regulated Electric,23550390272,United States,NYQ
+STT,State Street Corporation,Financial Services,Asset Management,22005063680,United States,NYQ
+TECH,Bio-Techne Corporation,Healthcare,Biotechnology,8176311808,United States,NMS
+BLK,"BlackRock, Inc.",Financial Services,Asset Management,127714213888,United States,NYQ
+FAST,Fastenal Company,Industrials,Industrial Distribution,42676224000,United States,NMS
+D,"Dominion Energy, Inc.",Utilities,Utilities - Regulated Electric,44937293824,United States,NYQ
+TMO,Thermo Fisher Scientific Inc.,Healthcare,Diagnostics & Research,165206360064,United States,NYQ
+PCAR,PACCAR Inc,Industrials,Farm & Heavy Construction Machinery,47706091520,United States,NMS
+KR,The Kroger Co.,Consumer Defensive,Grocery Stores,44398858240,United States,NYQ
+WDC,Western Digital Corporation,Technology,Computer Hardware,10622544896,United States,NMS
+JNPR,"Juniper Networks, Inc.",Technology,Communication Equipment,11311801344,United States,NYQ
+BKNG,Booking Holdings Inc.,Consumer Cyclical,Travel Services,140580978688,United States,NMS
+K,Kellanova,Consumer Defensive,Packaged Foods,28390563840,United States,NYQ
+USB,U.S. Bancorp,Financial Services,Banks - Regional,57381511168,United States,NYQ
+LDOS,"Leidos Holdings, Inc.",Technology,Information Technology Services,17070411776,United States,NYQ
+AWK,"American Water Works Company, Inc.",Utilities,Utilities - Regulated Water,28711469056,United States,NYQ
+TRV,"The Travelers Companies, Inc.",Financial Services,Insurance - Property & Casualty,54926884864,United States,NYQ
+AIG,"American International Group, Inc.",Financial Services,Insurance - Diversified,46088876032,United States,NYQ
+ZTS,Zoetis Inc.,Healthcare,Drug Manufacturers - Specialty & Generic,67943477248,United States,NYQ
+NKE,"NIKE, Inc.",Consumer Cyclical,Footwear & Accessories,84500430848,United States,NYQ
+WEC,"WEC Energy Group, Inc.",Utilities,Utilities - Regulated Electric,33160599552,United States,NYQ
+AAPL,Apple Inc.,Technology,Consumer Electronics,2829863354368,United States,NMS
+HON,Honeywell International Inc.,Industrials,Conglomerates,124128026624,United States,NMS
+OTIS,Otis Worldwide Corporation,Industrials,Specialty Industrial Machinery,37657411584,United States,NYQ
+PANW,"Palo Alto Networks, Inc.",Technology,Software - Infrastructure,101678694400,United States,NMS
+DOC,"Healthpeak Properties, Inc.",Real Estate,REIT - Healthcare Facilities,12875123712,United States,NYQ
+CTSH,Cognizant Technology Solutions Corporation,Technology,Information Technology Services,33999902720,United States,NMS
+RMD,ResMed Inc.,Healthcare,Medical Instruments & Supplies,30132703232,United States,NYQ
+LNT,Alliant Energy Corporation,Utilities,Utilities - Regulated Electric,15761726464,United States,NMS
+AME,"AMETEK, Inc.",Industrials,Specialty Industrial Machinery,35225837568,United States,NYQ
+LKQ,LKQ Corporation,Consumer Cyclical,Auto Parts,10675653632,United States,NMS
+MS,Morgan Stanley,Financial Services,Capital Markets,161011826688,United States,NYQ
+KEYS,"Keysight Technologies, Inc.",Technology,Scientific & Technical Instruments,21950453760,United States,NYQ
+TT,Trane Technologies plc,Industrials,Building Products & Equipment,71349207040,Ireland,NYQ
+MCK,McKesson Corporation,Healthcare,Medical Distribution,85611438080,United States,NYQ
+PARA,Paramount Global,Communication Services,Entertainment,7890817536,United States,NMS
+ADBE,Adobe Inc.,Technology,Software - Application,148773634048,United States,NMS
+FITB,Fifth Third Bancorp,Financial Services,Banks - Regional,22430621696,United States,NMS
+SO,The Southern Company,Utilities,Utilities - Regulated Electric,97549393920,United States,NYQ
+PPG,"PPG Industries, Inc.",Basic Materials,Specialty Chemicals,22504572928,United States,NYQ
+RJF,"Raymond James Financial, Inc.",Financial Services,Asset Management,25337122816,United States,NYQ
+LYB,LyondellBasell Industries N.V.,Basic Materials,Specialty Chemicals,18753400832,United States,NYQ
+BDX,"Becton, Dickinson and Company",Healthcare,Medical Instruments & Supplies,59534569472,United States,NYQ
+VRSK,"Verisk Analytics, Inc.",Industrials,Consulting Services,39977254912,United States,NMS
+UAL,"United Airlines Holdings, Inc.",Industrials,Airlines,18877698048,United States,NMS
+ATO,Atmos Energy Corporation,Utilities,Utilities - Regulated Gas,23461584896,United States,NYQ
+MPC,Marathon Petroleum Corporation,Energy,Oil & Gas Refining & Marketing,37717057536,United States,NYQ
+CBOE,"Cboe Global Markets, Inc.",Financial Services,Financial Data & Stock Exchanges,22522503168,United States,BTS
+WBD,"Warner Bros. Discovery, Inc.",Communication Services,Entertainment,19809912832,United States,NMS
+KEY,KeyCorp,Financial Services,Banks - Regional,14759348224,United States,NYQ
+AMCR,Amcor plc,Consumer Cyclical,Packaging & Containers,13326035968,Switzerland,NYQ
+BALL,Ball Corporation,Consumer Cyclical,Packaging & Containers,13723619328,United States,NYQ
+SNA,Snap-on Incorporated,Industrials,Tools & Accessories,16511082496,United States,NYQ
+MHK,"Mohawk Industries, Inc.",Consumer Cyclical,"Furnishings, Fixtures & Appliances",6612337664,United States,NYQ
+AMT,American Tower Corporation,Real Estate,REIT - Specialty,103065542656,United States,NYQ
+ADSK,"Autodesk, Inc.",Technology,Software - Application,52293627904,United States,NMS
+WY,Weyerhaeuser Company,Real Estate,REIT - Specialty,19060795392,United States,NYQ
+NTAP,"NetApp, Inc.",Technology,Computer Hardware,15705288704,United States,NMS
+OKE,"ONEOK, Inc.",Energy,Oil & Gas Midstream,50506936320,United States,NYQ
+JKHY,"Jack Henry & Associates, Inc.",Technology,Information Technology Services,12583600128,United States,NMS
+COO,"The Cooper Companies, Inc.",Healthcare,Medical Instruments & Supplies,14750826496,United States,NMS
+WM,"Waste Management, Inc.",Industrials,Waste Management,90605166592,United States,NYQ
+SYF,Synchrony Financial,Financial Services,Credit Services,17031138304,United States,NYQ
+EVRG,"Evergy, Inc.",Utilities,Utilities - Regulated Electric,15222259712,United States,NMS
+AMZN,"Amazon.com, Inc.",Consumer Cyclical,Internet Retail,1812206583808,United States,NMS
+NTRS,Northern Trust Corporation,Financial Services,Asset Management,16769542144,United States,NMS
+CHTR,"Charter Communications, Inc.",Communication Services,Telecom Services,48041918464,United States,NMS
+GM,General Motors Company,Consumer Cyclical,Auto Manufacturers,43959189504,United States,NYQ
+TEL,TE Connectivity plc,Technology,Electronic Components,36399063040,Ireland,NYQ
+DIS,The Walt Disney Company,Communication Services,Entertainment,151004692480,United States,NYQ
+MKTX,MarketAxess Holdings Inc.,Financial Services,Capital Markets,8026390016,United States,NMS
+WDAY,"Workday, Inc.",Technology,Software - Application,57759240192,United States,NMS
+APD,"Air Products and Chemicals, Inc.",Basic Materials,Specialty Chemicals,58615750656,United States,NYQ
+TSCO,Tractor Supply Company,Consumer Cyclical,Specialty Retail,27856627712,United States,NMS
+CSCO,"Cisco Systems, Inc.",Technology,Communication Equipment,216975933440,United States,NMS
+NUE,Nucor Corporation,Basic Materials,Steel,23796338688,United States,NYQ
+MDT,Medtronic plc,Healthcare,Medical Devices,106296918016,Ireland,NYQ
+UBER,"Uber Technologies, Inc.",Technology,Software - Application,135137230848,United States,NYQ
+COF,Capital One Financial Corporation,Financial Services,Credit Services,57662140416,United States,NYQ
+AOS,A. O. Smith Corporation,Industrials,Specialty Industrial Machinery,8897362944,United States,NYQ
+APA,APA Corporation,Energy,Oil & Gas E&P,5526491648,United States,NMS
+CPAY,"Corpay, Inc.",Technology,Software - Infrastructure,20272015360,United States,NYQ
+TGT,Target Corporation,Consumer Defensive,Discount Stores,43607736320,United States,NYQ
+CI,The Cigna Group,Healthcare,Healthcare Plans,87405215744,United States,NYQ
+UNH,UnitedHealth Group Incorporated,Healthcare,Healthcare Plans,480269533184,United States,NYQ
+BX,Blackstone Inc.,Financial Services,Asset Management,152381243392,United States,NYQ
+ALL,The Allstate Corporation,Financial Services,Insurance - Property & Casualty,49445904384,United States,NYQ
+BG,Bunge Global SA,Consumer Defensive,Farm Products,9806456832,United States,NYQ
+C,Citigroup Inc.,Financial Services,Banks - Diversified,109409959936,United States,NYQ
+ODFL,"Old Dominion Freight Line, Inc.",Industrials,Trucking,32319590400,United States,NMS
+AJG,Arthur J. Gallagher & Co.,Financial Services,Insurance Brokers,81643405312,United States,NYQ
+LRCX,Lam Research Corporation,Technology,Semiconductor Equipment & Materials,75851472896,United States,NMS
+BXP,"BXP, Inc.",Real Estate,REIT - Office,10662377472,United States,NYQ
+IEX,IDEX Corporation,Industrials,Specialty Industrial Machinery,12275160064,United States,NYQ
+VST,Vistra Corp.,Utilities,Utilities - Independent Power Producers,33359196160,United States,NYQ
+KO,The Coca-Cola Company,Consumer Defensive,Beverages - Non-Alcoholic,300948652032,United States,NYQ
+GEV,GE Vernova Inc.,Utilities,Utilities - Renewable,74207969280,United States,NYQ
+MOS,The Mosaic Company,Basic Materials,Agricultural Inputs,7432220160,United States,NYQ
+GPC,Genuine Parts Company,Consumer Cyclical,Auto Parts,16211125248,United States,NYQ
+EXC,Exelon Corporation,Utilities,Utilities - Regulated Electric,45782634496,United States,NMS
+NWSA,News Corporation,Communication Services,Entertainment,14515104768,United States,NMS
+HRL,Hormel Foods Corporation,Consumer Defensive,Packaged Foods,16904326144,United States,NYQ
+AMP,"Ameriprise Financial, Inc.",Financial Services,Asset Management,40451710976,United States,NYQ
+TMUS,"T-Mobile US, Inc.",Communication Services,Telecom Services,283277131776,United States,NMS
+CMI,Cummins Inc.,Industrials,Specialty Industrial Machinery,38240215040,United States,NYQ
+A,"Agilent Technologies, Inc.",Healthcare,Diagnostics & Research,29365610496,United States,NYQ
+EXPE,"Expedia Group, Inc.",Consumer Cyclical,Travel Services,18279653376,United States,NMS
+PAYX,"Paychex, Inc.",Technology,Software - Application,51622576128,United States,NMS
+NI,NiSource Inc.,Utilities,Utilities - Regulated Gas,17515919360,United States,NYQ
+LHX,"L3Harris Technologies, Inc.",Industrials,Aerospace & Defense,37929893888,United States,NYQ
+MRNA,"Moderna, Inc.",Healthcare,Biotechnology,9708103680,United States,NMS
+CB,Chubb Limited,Financial Services,Insurance - Property & Casualty,112464257024,Switzerland,NYQ
+CPB,The Campbell's Company,Consumer Defensive,Packaged Foods,11566480384,United States,NMS
+MCO,Moody's Corporation,Financial Services,Financial Data & Stock Exchanges,72392728576,United States,NYQ
+NEM,Newmont Corporation,Basic Materials,Gold,49802350592,United States,NYQ
+BAX,Baxter International Inc.,Healthcare,Medical Instruments & Supplies,14767082496,United States,NYQ
+FCX,Freeport-McMoRan Inc.,Basic Materials,Copper,41890586624,United States,NYQ
+FICO,Fair Isaac Corporation,Technology,Software - Application,40916758528,United States,NYQ
+SWK,"Stanley Black & Decker, Inc.",Industrials,Tools & Accessories,9717349376,United States,NYQ
+AMAT,"Applied Materials, Inc.",Technology,Semiconductor Equipment & Materials,103139385344,United States,NMS
+MOH,"Molina Healthcare, Inc.",Healthcare,Healthcare Plans,18965002240,United States,NYQ
+SYK,Stryker Corporation,Healthcare,Medical Devices,131988045824,United States,NYQ
+COR,"Cencora, Inc.",Healthcare,Medical Distribution,53927763968,United States,NYQ
+HUBB,Hubbell Incorporated,Industrials,Electrical Equipment & Parts,16925979648,United States,NYQ
+CME,CME Group Inc.,Financial Services,Financial Data & Stock Exchanges,91703066624,United States,NMS
+UDR,"UDR, Inc.",Real Estate,REIT - Residential,15241106432,United States,NYQ
+CVX,Chevron Corporation,Energy,Oil & Gas Integrated,252258779136,United States,NYQ
+PNW,Pinnacle West Capital Corporation,Utilities,Utilities - Regulated Electric,10848727040,United States,NYQ
+MTCH,"Match Group, Inc.",Communication Services,Internet Content & Information,7197329408,United States,NMS
+CAG,"Conagra Brands, Inc.",Consumer Defensive,Packaged Foods,12736017408,United States,NYQ
+PODD,Insulet Corporation,Healthcare,Medical Devices,17223651328,United States,NMS
+CFG,"Citizens Financial Group, Inc.",Financial Services,Banks - Regional,14980583424,United States,NYQ
+HCA,"HCA Healthcare, Inc.",Healthcare,Medical Care Facilities,81653227520,United States,NYQ
+HLT,Hilton Worldwide Holdings Inc.,Consumer Cyclical,Lodging,50248683520,United States,NYQ
+ISRG,"Intuitive Surgical, Inc.",Healthcare,Medical Instruments & Supplies,161789820928,United States,NMS
+IQV,IQVIA Holdings Inc.,Healthcare,Diagnostics & Research,27281219584,United States,NYQ
+LH,Labcorp Holdings Inc.,Healthcare,Diagnostics & Research,18832500736,United States,NYQ
+TDY,Teledyne Technologies Incorporated,Technology,Scientific & Technical Instruments,20447934464,United States,NYQ
+FE,FirstEnergy Corp.,Utilities,Utilities - Regulated Electric,22721449984,United States,NYQ
+GIS,"General Mills, Inc.",Consumer Defensive,Packaged Foods,32642496512,United States,NYQ
+EMR,Emerson Electric Co.,Industrials,Specialty Industrial Machinery,53328027648,United States,NYQ
+VTR,"Ventas, Inc.",Real Estate,REIT - Healthcare Facilities,28673595392,United States,NYQ
+DECK,Deckers Outdoor Corporation,Consumer Cyclical,Footwear & Accessories,16091078656,United States,NYQ
+PLD,"Prologis, Inc.",Real Estate,REIT - Industrial,91056955392,United States,NYQ
+WSM,"Williams-Sonoma, Inc.",Consumer Cyclical,Specialty Retail,17498755072,United States,NYQ
+CEG,Constellation Energy Corporation,Utilities,Utilities - Renewable,53563482112,United States,NMS
+ECL,Ecolab Inc.,Basic Materials,Specialty Chemicals,67439419392,United States,NYQ
+SCHW,The Charles Schwab Corporation,Financial Services,Capital Markets,125407428608,United States,NYQ
+OXY,Occidental Petroleum Corporation,Energy,Oil & Gas E&P,38098804736,United States,NYQ
+HPE,Hewlett Packard Enterprise Company,Technology,Communication Equipment,16800688128,United States,NYQ
+ADM,Archer-Daniels-Midland Company,Consumer Defensive,Farm Products,20800358400,United States,NYQ
+DUK,Duke Energy Corporation,Utilities,Utilities - Regulated Electric,92411232256,United States,NYQ
+BRO,"Brown & Brown, Inc.",Financial Services,Insurance Brokers,32965087232,United States,NYQ
+TDG,TransDigm Group Incorporated,Industrials,Aerospace & Defense,69424324608,United States,NYQ
+IPG,"The Interpublic Group of Companies, Inc.",Communication Services,Advertising Agencies,8831781888,United States,NYQ
+NXPI,NXP Semiconductors N.V.,Technology,Semiconductors,40784629760,Netherlands,NMS
+HII,"Huntington Ingalls Industries, Inc.",Industrials,Aerospace & Defense,7256624128,United States,NYQ
+FDX,FedEx Corporation,Industrials,Integrated Freight & Logistics,50344542208,United States,NYQ
+IFF,International Flavors & Fragrances Inc.,Basic Materials,Specialty Chemicals,18699343872,United States,NYQ
+STX,Seagate Technology Holdings plc,Technology,Computer Hardware,14127209472,Singapore,NMS
+RSG,"Republic Services, Inc.",Industrials,Waste Management,73518129152,United States,NYQ
+CINF,Cincinnati Financial Corporation,Financial Services,Insurance - Property & Casualty,20618043392,United States,NMS
+VLO,Valero Energy Corporation,Energy,Oil & Gas Refining & Marketing,32920922112,United States,NYQ
+ITW,Illinois Tool Works Inc.,Industrials,Specialty Industrial Machinery,66174574592,United States,NYQ
+GS,"The Goldman Sachs Group, Inc.",Financial Services,Capital Markets,146323046400,United States,NYQ
+KVUE,Kenvue Inc.,Consumer Defensive,Household & Personal Products,42677989376,United States,NYQ
+CTAS,Cintas Corporation,Industrials,Specialty Business Services,76852781056,United States,NMS
+POOL,Pool Corporation,Industrials,Industrial Distribution,11883118592,United States,NMS
+AXP,American Express Company,Financial Services,Credit Services,163835379712,United States,NYQ
+WTW,Willis Towers Watson Public Limited Company,Financial Services,Insurance Brokers,30688790528,United Kingdom,NMS
+XEL,Xcel Energy Inc.,Utilities,Utilities - Regulated Electric,39006404608,United States,NMS
+DAL,"Delta Air Lines, Inc.",Industrials,Airlines,24062083072,United States,NYQ
+PFE,Pfizer Inc.,Healthcare,Drug Manufacturers - General,130273206272,United States,NYQ
+IBM,International Business Machines Corporation,Technology,Information Technology Services,210934005760,United States,NYQ
+RVTY,"Revvity, Inc.",Healthcare,Diagnostics & Research,11394741248,United States,NYQ
+DLTR,"Dollar Tree, Inc.",Consumer Defensive,Discount Stores,14528858112,United States,NMS
+HWM,Howmet Aerospace Inc.,Industrials,Aerospace & Defense,45496233984,United States,NYQ
+PFG,"Principal Financial Group, Inc.",Financial Services,Asset Management,16453149696,United States,NMS
+GD,General Dynamics Corporation,Industrials,Aerospace & Defense,67098181632,United States,NYQ
+MET,"MetLife, Inc.",Financial Services,Insurance - Life,47052419072,United States,NYQ
+EXR,Extra Space Storage Inc.,Real Estate,REIT - Industrial,30624436224,United States,NYQ
+NOC,Northrop Grumman Corporation,Industrials,Aerospace & Defense,70281928704,United States,NYQ
+AES,The AES Corporation,Utilities,Utilities - Diversified,7674292736,United States,NYQ
+KMB,Kimberly-Clark Corporation,Consumer Defensive,Household & Personal Products,45738127360,United States,NYQ
+NEE,"NextEra Energy, Inc.",Utilities,Utilities - Regulated Electric,137739599872,United States,NYQ
+MA,Mastercard Incorporated,Financial Services,Credit Services,446527242240,United States,NYQ
+INTC,Intel Corporation,Technology,Semiconductors,86557712384,United States,NMS
+EQT,EQT Corporation,Energy,Oil & Gas E&P,27548006400,United States,NYQ
+AZO,"AutoZone, Inc.",Consumer Cyclical,Specialty Retail,61113954304,United States,NYQ
+ES,Eversource Energy,Utilities,Utilities - Regulated Electric,21415563264,United States,NYQ
+BKR,Baker Hughes Company,Energy,Oil & Gas Equipment & Services,35068293120,United States,NMS
+SBUX,Starbucks Corporation,Consumer Cyclical,Restaurants,93259849728,United States,NMS
+MTB,M&T Bank Corporation,Financial Services,Banks - Regional,25796816896,United States,NYQ
+CTRA,Coterra Energy Inc.,Energy,Oil & Gas E&P,19194091520,United States,NYQ
+LW,"Lamb Weston Holdings, Inc.",Consumer Defensive,Packaged Foods,8325843968,United States,NYQ
+TER,"Teradyne, Inc.",Technology,Semiconductor Equipment & Materials,11052443648,United States,NMS
+BBY,"Best Buy Co., Inc.",Consumer Cyclical,Specialty Retail,12775202816,United States,NYQ
+HPQ,HP Inc.,Technology,Computer Hardware,21314514944,United States,NYQ
+LOW,"Lowe's Companies, Inc.",Consumer Cyclical,Home Improvement Retail,124976971776,United States,NYQ
+BLDR,"Builders FirstSource, Inc.",Industrials,Building Products & Equipment,14084459520,United States,NYQ
+AIZ,"Assurant, Inc.",Financial Services,Insurance - Property & Casualty,9498593280,United States,NYQ
+DOW,Dow Inc.,Basic Materials,Chemicals,19902543872,United States,NYQ
+GEN,Gen Digital Inc.,Technology,Software - Infrastructure,14655637504,United States,NMS
+LLY,Eli Lilly and Company,Healthcare,Drug Manufacturers - General,662904504320,United States,NYQ
+MAR,"Marriott International, Inc.",Consumer Cyclical,Lodging,59089539072,United States,NMS
+MMC,"Marsh & McLennan Companies, Inc.",Financial Services,Insurance Brokers,113466269696,United States,NYQ
+HOLX,"Hologic, Inc.",Healthcare,Medical Instruments & Supplies,13737502720,United States,NMS
+CSGP,"CoStar Group, Inc.",Real Estate,Real Estate Services,30628429824,United States,NMS
+CMG,"Chipotle Mexican Grill, Inc.",Consumer Cyclical,Restaurants,64094031872,United States,NYQ
+CCL,Carnival Corporation & plc,Consumer Cyclical,Travel Services,22355189760,United States,NYQ
+ROL,"Rollins, Inc.",Consumer Cyclical,Personal Services,25325817856,United States,NYQ
+DASH,"DoorDash, Inc.",Communication Services,Internet Content & Information,68542865408,United States,NMS
+DFS,Discover Financial Services,Financial Services,Credit Services,36995997696,United States,NYQ
+NVDA,NVIDIA Corporation,Technology,Semiconductors,2301163732992,United States,NMS
+COP,ConocoPhillips,Energy,Oil & Gas E&P,109085229056,United States,NYQ
+APO,"Apollo Global Management, Inc.",Financial Services,Asset Management,61999767552,United States,NYQ
+CARR,Carrier Global Corporation,Industrials,Building Products & Equipment,49402830848,United States,NYQ
+SHW,The Sherwin-Williams Company,Basic Materials,Specialty Chemicals,83516407808,United States,NYQ
+TXT,Textron Inc.,Industrials,Aerospace & Defense,11028026368,United States,NYQ
+GDDY,GoDaddy Inc.,Technology,Software - Infrastructure,23241752576,United States,NYQ
+OMC,Omnicom Group Inc.,Communication Services,Advertising Agencies,14269451264,United States,NYQ
+ROK,"Rockwell Automation, Inc.",Industrials,Specialty Industrial Machinery,25680009216,United States,NYQ
+HBAN,Huntington Bancshares Incorporated,Financial Services,Banks - Regional,18405449728,United States,NMS
+DELL,Dell Technologies Inc.,Technology,Computer Hardware,49986351104,United States,NYQ
+INTU,Intuit Inc.,Technology,Software - Application,156982444032,United States,NMS
+PLTR,Palantir Technologies Inc.,Technology,Software - Infrastructure,173580091392,United States,NMS
+SPGI,S&P Global Inc.,Financial Services,Financial Data & Stock Exchanges,138467377152,United States,NYQ
+BSX,Boston Scientific Corporation,Healthcare,Medical Devices,132672569344,United States,NYQ
+LII,Lennox International Inc.,Industrials,Building Products & Equipment,18903494656,United States,NYQ
+CAT,Caterpillar Inc.,Industrials,Farm & Heavy Construction Machinery,137682649088,United States,NYQ
+ALLE,Allegion plc,Industrials,Security & Protection Services,10668945408,Ireland,NYQ
+PH,Parker-Hannifin Corporation,Industrials,Specialty Industrial Machinery,66601119744,United States,NYQ
+PYPL,"PayPal Holdings, Inc.",Financial Services,Credit Services,57742053376,United States,NMS
+SYY,Sysco Corporation,Consumer Defensive,Food Distribution,34950594560,United States,NYQ
+ENPH,"Enphase Energy, Inc.",Technology,Solar,7586614272,United States,NGM
+RL,Ralph Lauren Corporation,Consumer Cyclical,Apparel Manufacturing,12205841408,United States,NYQ
+CTVA,"Corteva, Inc.",Basic Materials,Agricultural Inputs,38105407488,United States,NYQ
+FDS,FactSet Research Systems Inc.,Financial Services,Financial Data & Stock Exchanges,15827705856,United States,NYQ
+SLB,Schlumberger Limited,Energy,Oil & Gas Equipment & Services,47295926272,United States,NYQ
+PWR,"Quanta Services, Inc.",Industrials,Engineering & Construction,35488976896,United States,NYQ
+LULU,lululemon athletica inc.,Consumer Cyclical,Apparel Retail,31811979264,Canada,NMS
+TAP,Molson Coors Beverage Company,Consumer Defensive,Beverages - Brewers,12392658944,United States,NYQ
+SOLV,Solventum Corporation,Healthcare,Medical Instruments & Supplies,11452798976,United States,NYQ
+UPS,"United Parcel Service, Inc.",Industrials,Integrated Freight & Logistics,82812354560,United States,NYQ
+PNC,"The PNC Financial Services Group, Inc.",Financial Services,Banks - Regional,60589330432,United States,NYQ
+SBAC,SBA Communications Corporation,Real Estate,REIT - Specialty,23665614848,United States,NMS
+DVA,DaVita Inc.,Healthcare,Medical Care Facilities,11959200768,United States,NYQ
+TRGP,Targa Resources Corp.,Energy,Oil & Gas Midstream,35072524288,United States,NYQ
+DD,"DuPont de Nemours, Inc.",Basic Materials,Specialty Chemicals,24749971456,United States,NYQ
+MSFT,Microsoft Corporation,Technology,Software - Infrastructure,2675043205120,United States,NMS
+XYL,Xylem Inc.,Industrials,Specialty Industrial Machinery,25454303232,United States,NYQ
+IRM,Iron Mountain Incorporated,Real Estate,REIT - Specialty,22673868800,United States,NYQ
+MAA,"Mid-America Apartment Communities, Inc.",Real Estate,REIT - Residential,18365925376,United States,NYQ
+VZ,Verizon Communications Inc.,Communication Services,Telecom Services,181143388160,United States,NYQ
+TRMB,Trimble Inc.,Technology,Scientific & Technical Instruments,13889705984,United States,NMS
+V,Visa Inc.,Financial Services,Credit Services,604030894080,United States,NYQ
+NVR,"NVR, Inc.",Consumer Cyclical,Residential Construction,22003052544,United States,NYQ
+PGR,The Progressive Corporation,Financial Services,Insurance - Property & Casualty,151037853696,United States,NYQ
+ALB,Albemarle Corporation,Basic Materials,Specialty Chemicals,6883759616,United States,NYQ
+GPN,Global Payments Inc.,Industrials,Specialty Business Services,20869953536,United States,NYQ
+TSN,"Tyson Foods, Inc.",Consumer Defensive,Farm Products,21303963648,United States,NYQ
+AXON,"Axon Enterprise, Inc.",Industrials,Aerospace & Defense,38607863808,United States,NMS
+HD,"The Home Depot, Inc.",Consumer Cyclical,Home Improvement Retail,351787909120,United States,NYQ
+INCY,Incyte Corporation,Healthcare,Biotechnology,11723683840,United States,NMS
+ROST,"Ross Stores, Inc.",Consumer Cyclical,Apparel Retail,42848661504,United States,NMS
+AON,Aon plc,Financial Services,Insurance Brokers,81164533760,Ireland,NYQ
+EMN,Eastman Chemical Company,Basic Materials,Specialty Chemicals,8720693248,United States,NYQ
+WELL,Welltower Inc.,Real Estate,REIT - Healthcare Facilities,92911673344,United States,NYQ
+EW,Edwards Lifesciences Corporation,Healthcare,Medical Devices,40627965952,United States,NYQ
+LUV,Southwest Airlines Co.,Industrials,Airlines,15332140032,United States,NYQ
+YUM,"Yum! Brands, Inc.",Consumer Cyclical,Restaurants,41259651072,United States,NYQ
+IT,"Gartner, Inc.",Technology,Information Technology Services,29439805440,United States,NYQ
+FRT,Federal Realty Investment Trust,Real Estate,REIT - Retail,7696342016,United States,NYQ
+ABT,Abbott Laboratories,Healthcare,Medical Devices,215818780672,United States,NYQ
+REGN,"Regeneron Pharmaceuticals, Inc.",Healthcare,Biotechnology,62692421632,United States,NMS
+LIN,Linde plc,Basic Materials,Specialty Chemicals,207116533760,United Kingdom,NMS
+PG,The Procter & Gamble Company,Consumer Defensive,Household & Personal Products,383969165312,United States,NYQ
+FIS,"Fidelity National Information Services, Inc.",Technology,Information Technology Services,37025472512,United States,NYQ
+GOOG,Alphabet Inc.,Communication Services,Internet Content & Information,1786634698752,United States,NMS
+CMCSA,Comcast Corporation,Communication Services,Telecom Services,126210449408,United States,NMS
+MSCI,MSCI Inc.,Financial Services,Financial Data & Stock Exchanges,39378157568,United States,NYQ
+MLM,"Martin Marietta Materials, Inc.",Basic Materials,Building Materials,28700510208,United States,NYQ
+ELV,"Elevance Health, Inc.",Healthcare,Healthcare Plans,97095131136,United States,NYQ
+TJX,"The TJX Companies, Inc.",Consumer Cyclical,Apparel Retail,136464941056,United States,NYQ
+PEG,Public Service Enterprise Group Incorporated,Utilities,Utilities - Regulated Electric,38753148928,United States,NYQ
+SWKS,"Skyworks Solutions, Inc.",Technology,Semiconductors,8105688576,United States,NMS
+DHR,Danaher Corporation,Healthcare,Diagnostics & Research,130047344640,United States,NYQ
+PRU,"Prudential Financial, Inc.",Financial Services,Insurance - Life,34212839424,United States,NYQ
+KMI,"Kinder Morgan, Inc.",Energy,Oil & Gas Midstream,56193368064,United States,NYQ
+AVB,"AvalonBay Communities, Inc.",Real Estate,REIT - Residential,27292135424,United States,NYQ
+CPRT,"Copart, Inc.",Industrials,Specialty Business Services,52661727232,United States,NMS
+RCL,Royal Caribbean Cruises Ltd.,Consumer Cyclical,Travel Services,47886118912,United States,NYQ
+ANSS,"ANSYS, Inc.",Technology,Software - Application,25142919168,United States,NMS
+FTV,Fortive Corporation,Technology,Scientific & Technical Instruments,21822795776,United States,NYQ
+F,Ford Motor Company,Consumer Cyclical,Auto Manufacturers,38095347712,United States,NYQ
+STLD,"Steel Dynamics, Inc.",Basic Materials,Steel,16370250752,United States,NMS
+ZBRA,Zebra Technologies Corporation,Technology,Communication Equipment,11430016000,United States,NMS
+PNR,Pentair plc,Industrials,Specialty Industrial Machinery,12993037312,United Kingdom,NYQ
+GE,GE Aerospace,Industrials,Aerospace & Defense,177916198912,United States,NYQ
+SMCI,"Super Micro Computer, Inc.",Technology,Computer Hardware,17697603584,United States,NMS
+TPL,Texas Pacific Land Corporation,Energy,Oil & Gas E&P,24800600064,United States,NYQ
+CZR,"Caesars Entertainment, Inc.",Consumer Cyclical,Resorts & Casinos,4914461184,United States,NMS
+JCI,Johnson Controls International plc,Industrials,Building Products & Equipment,47331962880,Ireland,NYQ
+CMS,CMS Energy Corporation,Utilities,Utilities - Regulated Electric,21742669824,United States,NYQ
+GILD,"Gilead Sciences, Inc.",Healthcare,Drug Manufacturers - General,133701066752,United States,NMS
+LVS,Las Vegas Sands Corp.,Consumer Cyclical,Resorts & Casinos,23580174336,United States,NYQ
+EIX,Edison International,Utilities,Utilities - Regulated Electric,21080064000,United States,NYQ
+HSIC,"Henry Schein, Inc.",Healthcare,Medical Distribution,8129868288,United States,NMS
+IR,Ingersoll Rand Inc.,Industrials,Specialty Industrial Machinery,28094883840,United States,NYQ
+TROW,"T. Rowe Price Group, Inc.",Financial Services,Asset Management,18357188608,United States,NMS
+CRL,"Charles River Laboratories International, Inc.",Healthcare,Diagnostics & Research,6723938816,United States,NYQ
+JBL,Jabil Inc.,Technology,Electronic Components,12802450432,United States,NYQ
+NOW,"ServiceNow, Inc.",Technology,Software - Application,149011349504,United States,NYQ
+ABBV,AbbVie Inc.,Healthcare,Drug Manufacturers - General,330728505344,United States,NYQ
+SNPS,"Synopsys, Inc.",Technology,Software - Infrastructure,60012662784,United States,NMS
+ACGL,Arch Capital Group Ltd.,Financial Services,Insurance - Diversified,32999137280,Bermuda,NMS
+TKO,"TKO Group Holdings, Inc.",Communication Services,Entertainment,11383279616,United States,NYQ
+CLX,The Clorox Company,Consumer Defensive,Household & Personal Products,17722114048,United States,NYQ
+MU,"Micron Technology, Inc.",Technology,Semiconductors,72329134080,United States,NMS
+PHM,"PulteGroup, Inc.",Consumer Cyclical,Residential Construction,20408463360,United States,NYQ
+GOOGL,Alphabet Inc.,Communication Services,Internet Content & Information,1786628538368,United States,NMS
+CPT,Camden Property Trust,Real Estate,REIT - Residential,12014673920,United States,NYQ
+LMT,Lockheed Martin Corporation,Industrials,Aerospace & Defense,101370716160,United States,NYQ
+PTC,PTC Inc.,Technology,Software - Application,16817685504,United States,NMS
+META,"Meta Platforms, Inc.",Communication Services,Internet Content & Information,1278814191616,United States,NMS
+HSY,The Hershey Company,Consumer Defensive,Confectioners,32863823872,United States,NYQ
+AKAM,"Akamai Technologies, Inc.",Technology,Software - Infrastructure,10767215616,United States,NMS
+PM,Philip Morris International Inc.,Consumer Defensive,Tobacco,234438508544,United States,NYQ
+AEP,"American Electric Power Company, Inc.",Utilities,Utilities - Regulated Electric,55791067136,United States,NMS
+NDAQ,"Nasdaq, Inc.",Financial Services,Financial Data & Stock Exchanges,39253647360,United States,NMS
+NRG,"NRG Energy, Inc.",Utilities,Utilities - Independent Power Producers,17028598784,United States,NYQ
+PKG,Packaging Corporation of America,Consumer Cyclical,Packaging & Containers,16494611456,United States,NYQ
+ADP,"Automatic Data Processing, Inc.",Technology,Software - Application,116418002944,United States,NMS
+CAH,"Cardinal Health, Inc.",Healthcare,Medical Distribution,31314460672,United States,NYQ
+GLW,Corning Incorporated,Technology,Electronic Components,33474277376,United States,NYQ
+JBHT,"J.B. Hunt Transport Services, Inc.",Industrials,Integrated Freight & Logistics,13467077632,United States,NMS
+HIG,"The Hartford Insurance Group, Inc.",Financial Services,Insurance - Property & Casualty,32411402240,United States,NYQ
+MKC,"McCormick & Company, Incorporated",Consumer Defensive,Packaged Foods,20510853120,United States,NYQ
+L,Loews Corporation,Financial Services,Insurance - Property & Casualty,17483628544,United States,NYQ
+CVS,CVS Health Corporation,Healthcare,Healthcare Plans,80262529024,United States,NYQ
+ROP,"Roper Technologies, Inc.",Technology,Software - Application,58181193728,United States,NMS
+AVGO,Broadcom Inc.,Technology,Semiconductors,687848226816,United States,NMS
+MMM,3M Company,Industrials,Conglomerates,68444852224,United States,NYQ
+LYV,"Live Nation Entertainment, Inc.",Communication Services,Entertainment,27927693312,United States,NYQ
+WMB,"The Williams Companies, Inc.",Energy,Oil & Gas Midstream,66613055488,United States,NYQ
+IVZ,Invesco Ltd.,Financial Services,Asset Management,5736779264,United States,NYQ
+ULTA,"Ulta Beauty, Inc.",Consumer Cyclical,Specialty Retail,16282421248,United States,NMS
+MPWR,"Monolithic Power Systems, Inc.",Technology,Semiconductors,22850750464,United States,NMS
+CF,"CF Industries Holdings, Inc.",Basic Materials,Agricultural Inputs,12163743744,United States,NYQ
+MDLZ,"Mondelez International, Inc.",Consumer Defensive,Confectioners,85773967360,United States,NMS
+AEE,Ameren Corporation,Utilities,Utilities - Regulated Electric,25878435840,United States,NYQ
+DG,Dollar General Corporation,Consumer Defensive,Discount Stores,20371492864,United States,NYQ
+JPM,JPMorgan Chase & Co.,Financial Services,Banks - Diversified,587966054400,United States,NYQ
+DVN,Devon Energy Corporation,Energy,Oil & Gas E&P,19009116160,United States,NYQ
+NSC,Norfolk Southern Corporation,Industrials,Railroads,47720165376,United States,NYQ
